@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ArjanCodes/getting-started-with-dash/part-1-and-2/data/transactions.csv
+ArjanCodes/getting-started-with-dash/part-3/data/transactions.csv
