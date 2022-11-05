@@ -6,7 +6,7 @@ from src.data.loader import load_transaction_data
 from src.data.source import DataSource
 
 DATA_PATH = "./data/transactions.csv"
-LOCALE = "en"
+LOCALE = "nl"
 
 def main() -> None:
     """_summary_
