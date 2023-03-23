@@ -130,3 +130,5 @@ dmypy.json
 ArjanCodes/getting-started-with-dash/part-1-and-2/data/transactions.csv
 ArjanCodes/getting-started-with-dash/part-3/data/transactions.csv
 statquest/xgboost-demo/telco-customer-data.csv
+.conda/*
+*.dgl
