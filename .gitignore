@@ -132,3 +132,17 @@ ArjanCodes/getting-started-with-dash/part-3/data/transactions.csv
 statquest/xgboost-demo/telco-customer-data.csv
 .conda/*
 *.dgl
+DataTalksClub/Nikita-iserson/data/*.csv
+
+DataTalksClub/Nikita-iserson/data/revolut/*.csv
+*:Zone.Identifier
+DataTalksClub/Nikita-iserson/data/revolut/Initial_data_checks_and_transformations.ipynb
+DataTalksClub/Nikita-iserson/data/revolut/Model_building__Threshold_picking__Patrol_class_testing.ipynb
+DataTalksClub/Nikita-iserson/data/revolut/Patrol.py
+DataTalksClub/Nikita-iserson/data/revolut/README.md
+dgl-tutorial/blitz-introduction/notebooks/4-Link-Prediction-Using-Graph-Neural-Networks.ipynb
+DataTalksClub/Nikita-iserson/data/revolut/Data Challenge  FinCrime.pdf
+PyTorch-BigGraph-Tutorial/data/medium-data/example_1/example.txt
+PyTorch-BigGraph-Tutorial/data/medium-data/example_1/test.txt
+PyTorch-BigGraph-Tutorial/data/medium-data/example_1/train.txt
+PyTorch-BigGraph-Tutorial/data/medium-data/example_2/example.txt
