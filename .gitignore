@@ -149,3 +149,4 @@ PyTorch-BigGraph-Tutorial/data/medium-data/example_2/example.txt
 computer-vision-engineer/yolov8/data/images/c25a31bc32458153.jpg
 computer-vision-engineer/yolov8/data/images/*
 *.csv
+*.DS_Store
